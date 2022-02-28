@@ -1,0 +1,252 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A paire of spectacles for the citie</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90639</idno>
+            <idno type="STC">Wing P196</idno>
+            <idno type="STC">Thomason E419_9</idno>
+            <idno type="STC">ESTC R203093</idno>
+            <idno type="EEBO-CITATION">99863173</idno>
+            <idno type="PROQUEST">99863173</idno>
+            <idno type="VID">115358</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90639)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115358)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 66:E419[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A paire of spectacles for the citie</title>
+               </titleStmt>
+               <extent>8, 7-13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare, MDCXLVIII. [1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>"A tract against the Army and the Independents"--Thomason catalogue.</note>
+                  <note>Annotation on Thomason copy: "Decemb: 4th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115358:1" rendition="simple:additions"/>
+            <p>A PAIRE OF SPECTACLES FOR THE CITIE.</p>
+            <p>Printed in the Yeare, MDCXLVIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:115358:2"/>
+            <pb n="3" facs="tcp:115358:2"/>
+            <head>A Paire of Spectacles for the City.</head>
+            <p>WEre there not a more then ordinary <hi>ſtupidity</hi> poſſeſ<g ref="char:EOLhyphen"/>ſing the hearts of men, which <hi>God</hi> uſually permits as the forerunner of heavy <hi>Judgements,</hi> after ſo many reall De<g ref="char:EOLhyphen"/>monſtrations of damnable <hi>Jeſuiticall Deſignes</hi> upon <hi>Religion</hi> and <hi>Liberty;</hi> it were very unneceſſary to publiſh any thing of this Nature; but let this unhappy neceſſity be obeyed, and honeſt men be perſwaded a little to withdraw their thoughts from their perplext reflections on the engagement and <hi>Tu<g ref="char:EOLhyphen"/>mults</hi> at <hi>Weſtminſter</hi> with the <hi>City-Remonſtrance,</hi> which are uſually looked upon as the <hi>Grounds,</hi> but never were o<g ref="char:EOLhyphen"/>ther then <hi>Occaſions</hi> and <hi>Advantages</hi> ſought by <hi>Sectaries</hi> and <hi>Athieſts,</hi> to throw us and the whole Kingdome into this Confuſion; and unleſſ<g ref="char:punc">▪</g> God (who caſteth out the Coun<g ref="char:EOLhyphen"/>ſells of the wicked, and taketh the Wiſe in their own crafti<g ref="char:EOLhyphen"/>neſſe) prevent, is like to overwhelme both, and apply themſelves to obſerve Affaires as they have beene managed by them, who will needs be the only <hi>Saints,</hi> and Men of the moſt <hi>uprightneſſe, Fidelity</hi> and <hi>Integritie,</hi> the greateſt <hi>Denyers of themſelves,</hi> the greateſt pretenders to the ſetting up of <hi>Chriſt</hi> in his <hi>Throne,</hi> the only <hi>Aſſertors</hi> of <hi>Peoples Libertie,</hi> taking off <hi>Taxes, Exciſe,</hi> calling of <hi>Mo<g ref="char:EOLhyphen"/>ney-Merchants</hi> to <hi>Accompt;</hi> Laſtly the bringing of the whole <hi>Kingdome</hi> to a happy and <hi>Peaceable Condition.</hi>
+            </p>
+            <p>Yet comparing things together, the diligent obſerver may eaſily diſcern<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> an evident conjuncture of <hi>Jeſuits, Secta<g ref="char:EOLhyphen"/>ries, Polititians, Atheiſts, Profane</hi> and <hi>Ignorant Perſons,</hi> for the Ruine of <hi>Religion,</hi> all <hi>Government, Order;</hi> con<g ref="char:EOLhyphen"/>founding all <hi>Diſtinctions</hi> of men, for the introducing of <hi>Atheiſm<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, Anarchie, Libertiniſme, Prophaneſſe.</hi>
+            </p>
+            <p>The Deſigne hatcht by <hi>Phillip Nye, Tom</hi> and <hi>John Good<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>,</hi> and the reſt of the Rabble, tooke the opportunity
+<pb n="4" facs="tcp:115358:3"/>of <hi>Crumwell's</hi> being <hi>Lieutenant Generall</hi> to <hi>Mancheſter,</hi> who being theirs in <hi>Judgement,</hi> they have made great by father<g ref="char:EOLhyphen"/>ing upon him the iſſue of other mens Actions and valour: So that no great Action could be performed, though other men were as deſerving as himſelfe in it, but the whole glo<g ref="char:EOLhyphen"/>ry muſt be attributed to <hi>Crumwell,</hi> the <hi>Pamphletiers</hi> com<g ref="char:EOLhyphen"/>monly taking notice of nothing, unleſſe <hi>Crumwell</hi> or ſome of his Party might handſomely be made to owne it. Thus at <hi>Marſton-Moore,</hi> though Sir <hi>Thomas Fairfax, Lieutenant Generall Midleton, Major Generall Craford</hi> deſerved farre above him; yet <hi>Crumwell</hi> muſt be bellowed abroad the <hi>Sa<g ref="char:EOLhyphen"/>viour</hi> of three Kingdomes, the <hi>Great Deliverer;</hi> 'Tis truth, if <hi>Craford</hi> had not whiſpered in his Eare, he had delivered himſelfe out of the Field in the beginning of the day at <hi>Na<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, Val<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ant Skippon, Butler,</hi> and ſome other ſtout Com<g ref="char:EOLhyphen"/>manders bl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ud muſt purchaſe <hi>Honour</hi> for <hi>Crumwell,</hi> and his <hi>Cowardly Sonne in Law Ireton. Baſing</hi> (halfe taken by <hi>Dalbiere</hi>) muſt have the <hi>Honour</hi> of <hi>Crumwell.</hi> At <hi>Lang<g ref="char:EOLhyphen"/>port Maſſy's valour</hi> muſt make <hi>Crumwell</hi> great. In all their <hi>Military</hi> matters, they have fallowed <hi>Joabs</hi> counſell to <hi>Da<g ref="char:EOLhyphen"/>vid,</hi> when the <hi>Cities</hi> of Waters have been taken, the buſi<g ref="char:EOLhyphen"/>neſſe as good as finiſhed, they muſt alſo downe, that it may be called after their names.</p>
+            <p>Thus <hi>Crumwell's</hi> fame being made great, the next worke is to fit him with fit followers; to this purpoſe, all the <hi>Se<g ref="char:EOLhyphen"/>ctaries</hi> in the <hi>Kingdome</hi> are invited together to the <hi>Army</hi> to be as a <hi>Reſerve:</hi> All occaſions taken to Caſhiere and diſ<g ref="char:EOLhyphen"/>miſſe all of what quality, valour, uprightneſſe ſoever, who were not of <hi>their judgement. Sk<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ppon</hi> ſent to <hi>Beleagrue</hi> at <hi>Briſtoll,</hi> ſince handſomely laid by from Acting as <hi>Major Generall</hi> and made <hi>Governour</hi> of <hi>Newcaſtle.</hi> Laſt of all, that alſo had his <hi>Regiment</hi> ſnatcht from him and given to <hi>Lil<g ref="char:EOLhyphen"/>burne:</hi> Himſelfe like that valiant <hi>Roman,</hi> after he had ſa<g ref="char:EOLhyphen"/>ved his Country from a deſperate Enemie return'd to lead a private life in his owne Country.</p>
+            <p>
+               <hi>Adjutant Generall Wray,</hi> for looking only on the <hi>City-Remonſtrance,</hi> throwne out of all. It hath ſeem'd very ſtrange to Men of their own Party, that ſo gallant valiant Gentlemen
+<pb n="5" facs="tcp:115358:3"/>ſhould be turn'd out of their Commands upon ſo triviall matters.</p>
+            <p>As much Induſtry hath beene uſed to bring in Men of depraved Judgements and large Conſciences: <hi>Lambert,</hi> (the <hi>Anabaptiſt</hi>) <hi>Overton, Baxter,</hi> (a Pedling <hi>Strand-Gold-Smith</hi>) whoſe greateſt d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aling was in <hi>Thimbles</hi> and <hi>Bod<g ref="char:EOLhyphen"/>kins,</hi> made a <hi>Colonell:</hi> For the Profits of which place, I dare ſay, he ſhall walke in the broadeſt way <hi>Crumw<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll</hi> can chalke him out. <hi>Gravener<g ref="char:punc">▪</g>
+               </hi> (a <hi>broken Citizen</hi>) <hi>Quarter-ma<g ref="char:EOLhyphen"/>ſter-Generall. Staines</hi> a <hi>Quacking Mountebanck, Commiſſary Generall: Watſon,</hi> who had beene hang'd for <hi>Embaſing</hi> Mettalls if hee had his due, <hi>Scout-maſter-Generall:</hi> The whole Command of the Army in the hands of <hi>Sectaries,</hi> or broken beggerly fellowes, the <hi>Principles</hi> of the one and <hi>Neceſſitie</hi> of the other making them ready to act whatſoe<g ref="char:EOLhyphen"/>ver their Maſters ſhall command them.</p>
+            <p>
+               <hi>Hewſon</hi> a <hi>Colonell,</hi> a <hi>Shoomaker,</hi> a very <hi>Knave</hi> in his Trade, as I am very credibly inform'd, from ſome that have beene upon ſearch in his Shop, and very often taken away faulty Commodities.</p>
+            <p>
+               <hi>Harriſon</hi> (a Poore Clerke) now a <hi>Parliament-Man</hi> and <hi>Colonell</hi> of <hi>Horſe,</hi> had his <hi>Wife</hi> by a figure call'd <hi>Pr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ocu<g ref="char:EOLhyphen"/>patio:</hi> But that's but <hi>Veniall</hi> with the <hi>Saints.</hi>
+            </p>
+            <p>
+               <hi>Pryde,</hi> a <hi>Dray-man, Colonell</hi> of Foot. <hi>Okey</hi> a <hi>Taylor, Co<g ref="char:EOLhyphen"/>lonell</hi> of <hi>Dragoon's.</hi> If the chiefe Officers be ſuch, what then are the rabble? And truely, what will not ſuch beg<g ref="char:EOLhyphen"/>gerly, baſe, diſhoneſt fellowes doe, to keepe<g ref="char:punc">▪</g> themſelves in a Condition, whereby they may enjoy the fat of the Land, the Pompe of the World; the Accoutrements of the beſt Gentlemen in the Kingdome, beſides the Command they have over the poore Country-men where they Quarter?</p>
+            <p>Care is likewiſe taken that the Common-Souldiers may be inſtructed in their Erroneous <hi>Tenets:</hi> To this purpoſe, the chiefe Commanders get to their Chaplaines the moſt <hi>Haereticall, Schiſmaticall, Blaſphemous</hi> men in the King<g ref="char:EOLhyphen"/>dome<g ref="char:punc">▪</g> 
+               <hi>Saltmarſh</hi> and <hi>Dell, Hugh Peters, Erbury.</hi> Theſe tell the Souldiers, that they have and ought to have all
+<pb n="6" facs="tcp:115358:4"/>
+               <hi>P<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>er</hi> in their hands, and bid them <hi>not part with it; <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> have right to the goods of this Life, but the Saints.</hi> That the <hi>Saints</hi> are now ſtiled <hi>Independents, Sectaries, Anabap<g ref="char:EOLhyphen"/>tiſts,</hi> and the like: That they have conquered the <hi>Pro<g ref="char:EOLhyphen"/>pha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e-ones,</hi> but they muſt alſo trample upon the Necks of all <hi>Carnall Goſpellers,</hi> that they the Saints may <hi>Reigne</hi> alone in the <hi>Earth.</hi> That <hi>Synods</hi> and <hi>Parliaments have nothing to doe to medle in ma<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ters that concerns God's Worſhip.</hi> Thus <hi>Dell</hi> before Sir <hi>Thomas</hi> and <hi>Crumwell</hi> at <hi>Marſt<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>-Church</hi> in <hi>Oxford-Leaguer; That the whole Scripture was not gi<g ref="char:EOLhyphen"/>ven by Inſpiration of God: Walwin Ritur,</hi> at a Conference, a hundred being preſent; <hi>That Chriſt is not God, neither dyed to ſatisfie for Sinne; Erbury, Hewſon,</hi> who ſaith, the whole Army generally beleeve the ſame: <hi>That the Soule is Mortall: That the Lawes of the Land are not binding to them, having Conquered their Conquerour.</hi> Thus having beat downe all <hi>Lawes,</hi> both <hi>Divine</hi> and <hi>Humane,</hi> they have got a fit rout for the Acting of any Wicked Deſigne whate<g ref="char:EOLhyphen"/>ver, and ſuppoſing they have but Two Parties in the King<g ref="char:EOLhyphen"/>dome able to give them any conſiderable Oppoſition: <hi>viz.</hi> the <hi>Kings Partie,</hi> and the <hi>Citie,</hi> from <hi>Killing</hi> the <hi>King,</hi> which they call <hi>exceeding Juſtice</hi> upon whomſoever, from <hi>Plundering</hi> the whole <hi>Kingdome,</hi> deſtroying the <hi>Nobility,</hi> and <hi>Levelling</hi> all <hi>Ranks</hi> and <hi>Diſtinctions</hi> of Men. They, have made it their Maſter-piece, firſt to divide them o<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> from another, then amongſt themſelves to lull the <hi>Kings Partie</hi> aſleepe; they have pretended to re-inthrone His <hi>Majeſtie,</hi> ſettle Him in His Juſt Rights; caſe and bring downe the Compoſitions of <hi>Delinquents;</hi> and ſet up a <hi>Regulated Epiſcop<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> for His <hi>Majeſtie,</hi> if wee may conclude, any thing from the Expreſſions of their Darlings: They would not have them live by them, much leſſe Reigne over them. <hi>Peters,</hi> in his <hi>Word to the Army, and Two to the Kingdome,</hi> calleth him a <hi>Dead Dog,</hi> and complaineth they are much troubled with him, and ſeemeth to requeſt ſome <hi>Agit<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>r,</hi> or other, to remove the <hi>Wicked</hi> from the <hi>Throne.</hi> They generally require he <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y be brought to <hi>Tryall,</hi> and re<g ref="char:EOLhyphen"/>ceive
+<pb n="7" facs="tcp:115358:4"/>
+               <hi>Puniſhment</hi> for all the <hi>bloud</hi> he hath beene the cauſe of ſhedding of; The ſecond, and pulling downe <hi>Exciſe</hi> they fool'd the poore Country People with, when they advan<g ref="char:EOLhyphen"/>ced to <hi>London,</hi> ſhall be performed together, which for them will be at <hi>Doomes day</hi> in the Afternoon. The third may be done, but if in their way and manner, it had been better ne<g ref="char:EOLhyphen"/>ver have beene toucht. I had rather have a <hi>Pope</hi> and his <hi>Cardinalls</hi> governe, then have no Government at all. And I beleeve moſt Men are of my Opinion: But for the <hi>Citie,</hi> there they have played their Maſter-piece, and brought us to be the very hilling and by-word of the whole Kingdome, or rather wee have brought our ſelves to it; and truely it may ſeeme very ſtrange to Men, how ſuch a <hi>Citie</hi> ſhould receive Check by ſuch an <hi>Army.</hi> I ſhall give a very briefe account of the whole Buſineſſe; and I ſhall take leave to be very plaine; let who will <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ind themſelves aggrieved.</p>
+            <p>The <hi>Kingdome</hi> and <hi>Citie</hi> extreamely groaning under the heavy burthen of an <hi>Everlaſting-Parliament,</hi> the <hi>Unjuſt<g ref="char:EOLhyphen"/>neſſe, Perfidiouſneſſe, Hypocriſie, Tyranny, Oppreſſion,</hi> of whom will make their Names <hi>ſtinck</hi> in the Noſth<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>lls of all honeſt Men as long as they are remembred, were held in hopes they ſhould be delivered from their Bondage under theſe <hi>Aegyptiant</hi> by this <hi>Army,</hi> according to their Pro<g ref="char:EOLhyphen"/>miſe in private, and Engagement and <hi>Declaration</hi> in pub<g ref="char:EOLhyphen"/>lique: This tooke off many from Oppoſing them.</p>
+            <p>Secondly, This Army had wonne that Eſteeme for <hi>Religion</hi> and <hi>Pietie,</hi> th<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> many would not beleeve that any thing, not the fruit of both could proceed from them.</p>
+            <p>Thirdly, They had a Partie of <hi>Lords</hi> and <hi>Commons</hi> baſely and unworthily received <hi>Orders</hi> from them their <hi>Servants:</hi> this gave Reputation to the Buſineſſe, and took off many, they Marching up with them.</p>
+            <p>Fourthly, The <hi>Seamen, Watermen,</hi> and <hi>Apprentices,</hi> after proffer of their Service, <hi>Cowardly</hi> deſerted us.</p>
+            <p>Fifthly, many <hi>Commanders, Sectaries,</hi> and <hi>Cowards,</hi>
+               <pb n="8" facs="tcp:115358:5"/>layd downe their <hi>Commiſſions,</hi> or hid their Heads juſt upon the Enemies approach.</p>
+            <p>Six<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hly, T<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at <hi>Tr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cherous</hi> baſe <hi>Skellum Hardwicke</hi> of <hi>Southwarke,</hi> who after that he had vowed by the <hi>Ho<g ref="char:EOLhyphen"/>nour</hi> of a <hi>Souldier,</hi> the <hi>Faith</hi> of a <hi>Chriſtian,</hi> the <hi>Repu<g ref="char:EOLhyphen"/>ta<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>on</hi> of a Man, that he would reſiſt all A<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>med Men whatever, who would endeavour to enter the Lyne, to the loſſe of Life, and this ſeverall times by the reaſon he was ſuſpected: Nay, after he had plotted the betraying of it, and both by Letter and Perſonall Meſſage, invited the <hi>Army</hi> too, and promiſed admiſſion into <hi>So<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>thwarke:</hi> I ſay this <hi>Treacherous</hi> baſe defection of his, (for which I hope to ſee him hang'd) very much furthered the Enemies Deſigne.</p>
+            <p>Seventhly, The Party they had in our very <hi>Committee</hi> for the <hi>Militia,</hi> who by their long tedious <hi>Speeches,</hi> ſo much obſtructed the buſineſſe, that halfe an <hi>houres</hi> worke commonly tooke up a <hi>Nights</hi> debate.</p>
+            <p>Eightly; It was juſt, <hi>God</hi> ſhould lay the <hi>Pride</hi> of this <hi>City</hi> in duſt, who notwithſtanding the <hi>Judgements</hi> abroad upon the whole Land, and our neighbour Nations, ſate ſtill like a Queane never providing for <hi>the day of her owne viſitation.</hi>
+            </p>
+            <p>Laſtly, The many <hi>Promiſes</hi> the <hi>Army</hi> made of their faithfull Intentions to us and the whole <hi>Kingdome,</hi> that they would endeavour the preſent ſetling of all diffe<g ref="char:EOLhyphen"/>rences, the bringing the <hi>King</hi> to a <hi>Perſonall Treaty,</hi> and not to enter the <hi>City:</hi> All which they have unworthily broke.</p>
+            <p>Theſe things very much facilitated their enſlaving of this great and populous <hi>City,</hi> but having us at com<g ref="char:EOLhyphen"/>mand, <hi>Machivilian like</hi> they breake all <hi>Promiſes;</hi> and being they cannot bring us to their <hi>Bow,</hi> they endeavour what poſſibly they can to make us weake <hi>Enemies;</hi> to that purpoſe, they <hi>Order</hi> the <hi>Parliament</hi> to take the <hi>Militia</hi> from us, which was given us by a full and free <hi>Parliament</hi> as a marke of <hi>Honour:</hi> So then a <hi>Committee</hi> of <hi>Parliament</hi>
+               <pb n="7" facs="tcp:115358:5"/>were pleaſed to call for our many great ſervices done them and the Kingdome, and conferred it upon beggerly <hi>Fouke,</hi> and a company of <hi>Anabaptiſts</hi> and <hi>Sectaries,</hi> and leaſt theſe men ſhould have ſo much ingenuity left, as to be faithfull to the place that bred them, they have ſo divided the command of the <hi>Militia,</hi> into ſo many pieces, that neither of them can ſcarce ſtand on their owne legg<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, much leſſe make any con<g ref="char:EOLhyphen"/>ſiderable defence in caſe of danger. They have likewiſe put that gallant and faithfull <hi>Coloneli, Colonell Weſt</hi> out of the Tower, only becauſe no <hi>Sectary,</hi> and the <hi>City</hi> placed him there; and in his roome that <hi>Thing Tichburne</hi> is put, a fellow much below the Command, fitter for a <hi>Poſſit</hi> and a <hi>warme Bed,</hi> then to keep a <hi>Cittadell,</hi> only a <hi>Peeviſh Sectary,</hi> for that muſt be Honoured; They have driven our friends out of the <hi>Houſe</hi> of <hi>Commons,</hi> as <hi>Maſſy, Waller,</hi> and that much lamented deceaſed <hi>Stapleton,</hi> whoſe bloud cries loud for <hi>Vengeance,</hi> and will be heard in the day of Enquiry, when <hi>treacherous Manchester</hi> and <hi>Harvy,</hi> who were in the Counſell as deep as any, though they baſely, now, act againſt us, ſhall not dare to hold up their heads: our ableſt, moſt faithfull and honeſt <hi>Aldermen</hi> and <hi>Commons</hi> are charged with <hi>High Treaſon,</hi> a word as I have heard, that prudent and faithfull Alderman <hi>Adam</hi> (though his pockets were ſearch'd when <hi>Lord Mayor</hi> to find a King) all the bloud in a man's body now ſcarce brings his into his face: ſo triviall a thing is <hi>High Treaſon</hi> now adayes. Can it be thought that <hi>Langham, Adams, Bunce, Bromfeild, Jones,</hi> ſhould <hi>Act Trea<g ref="char:EOLhyphen"/>ſon</hi> againſt <hi>King</hi> or <hi>State.</hi> I do confidently averre, and thouſands will make it good, there ſits not ſix in the Houſes of <hi>Lords</hi> and <hi>Commons</hi> nor reſident in the <hi>Army</hi> that have ſerved the <hi>State</hi> with more <hi>uprightneſſe, faithfulneſſe, conſtancy</hi> and <hi>courage,</hi> then theſe ſix gallant Men have done, where had theſe <hi>Commons</hi> and <hi>Parling</hi> Lords been, at the time when <hi>Glocester</hi> was beſieged, and ſo bravely defended by gallant <hi>Maſſy,</hi> when that <hi>purple Je<g ref="char:EOLhyphen"/>ſuited Independent (vulgò dicto) Lord Say</hi> as once Melitia gave Benhadad adviſe to put Halters about our Necks and go aske Mercy; truly we had better have done it, then ſuffer him and his Crue to lay ſuch fetters upon us. I ſay where had theſe brave Men been had not theſe very ſix Men, done beyond hu<g ref="char:EOLhyphen"/>manity. I ſpeake like a <hi>Chriſtian</hi> alwaies ſubmitting to <hi>Provi<g ref="char:EOLhyphen"/>dence,</hi>
+               <pb n="8" facs="tcp:115358:6"/>I am able to make it out, if truth had but one ſingle Pa<g ref="char:EOLhyphen"/>tron left, theſe very men then ſaved the Kingdome, were the moſt eminently inſtrumental in it, when theſe Fellows of Weſt<g ref="char:EOLhyphen"/>minſter ſate peeking and voting baſely and, cowardly left all, and certainly would have run away had they not been encou<g ref="char:EOLhyphen"/>raged by theſe very ſix men principally. I pray God give them Grace to bewaile the trouble they have put them to; but e<g ref="char:EOLhyphen"/>nough of this leaſt they be hated becauſe beloved, And let's ſee a little how our wiſe Committee for the <hi>Militia</hi> hath diſ<g ref="char:EOLhyphen"/>poſed their buſineſſe, if we can with patience: I ſhall run over all I know of them, and I beleeve they would not be angry if they knew me, firſt of the firſt.</p>
+            <p>The Orange Regiment Colonell <hi>Wilſon</hi> an <hi>Antinomian,</hi> a Man that hath more Mony then Wit or Valour, but he may ſerve: the next is <hi>Presto</hi> Colonell Lievetenant Colonell (what ſhall I call him) <hi>Camfield,</hi> a fellow that looks as if he had chan<g ref="char:EOLhyphen"/>ged his face, with his place; I met him lately going up Hol<g ref="char:EOLhyphen"/>borne, if he had been comming downe, I ſhould have thought he had broke his Halter and run away, he looked ſo ghaſtly, but he did them good ſervice at Weſtminſter, that day they ſay the the Houſe was forced, ſtood looking on like a <hi>cowardly baſe fellow,</hi> never offering to ſtrike blow, though he had nigh two hundred armed men under his command, and might have de<g ref="char:EOLhyphen"/>fended the Houſe againſt an Army; but that was in order to the deſigne, or elſe he had been hanged before this time.</p>
+            <p>Next him is Leivetenant Colonell Major, Captaine <hi>Petitoes,</hi> the ſight of whom makes me remember my <hi>Aunt Baſſet Swill Tub;</hi> he may doe well to chuſe the fat Cook in <hi>Py-Corner</hi> for his Colours, and <hi>Tripes</hi> for his Leivetenant, they will dead Bullets, if ever he be carried in a Tumbrell into Service, elſe he will never come where they are.</p>
+            <p>Then that Bartholemew Baby Major, Puny Captaine <hi>Ruſſell.</hi> Surely this is one of the <hi>Shakers</hi> they talke of; a fellow that every <hi>Step</hi> he takes ſpeakes him a <hi>Taylor.</hi>
+            </p>
+            <p>After him Colonell Leivetenant Colonell Young <hi>Captain Hey day Boſwell,</hi> a fellow lately put out for caning <hi>Train Band Souldiers,</hi> but it ſeems wee muſt come to it, and this Prick<g ref="char:EOLhyphen"/>louſe employed to begin the worke. All theſe I dare ſay will never be guilty of High Treaſon, in raiſing a <hi>New Warr,</hi> nor
+<pb n="9" facs="tcp:115358:6"/>except the laſt be angry to be kick'ſt, or affronted in any man<g ref="char:EOLhyphen"/>ner. For the Green, I know not what they have done, only they have turn'd out the diſcreet and faithfull Colonell <hi>Ship<g ref="char:EOLhyphen"/>heard,</hi> and put in the Bull <hi>Roe,</hi> as <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lſo honeſt and ſtout Lieute<g ref="char:EOLhyphen"/>nant Colonell <hi>Lane,</hi> and put that Swearing Phantaſtick Fool <hi>Juxon</hi> in his piace. I ſuppoſe the reſt of the Commanders of that Regiment will not be commanded by a Knave and a Fool; for the White, Colonell <hi>Vaughan</hi> being guilty of High Trea<g ref="char:EOLhyphen"/>ſon, of City High Treaſon, that is for retaining ſo much courage and prudence as to defend the City that gave him his com<g ref="char:EOLhyphen"/>mand, as to maintain the Honour and Reputation of it: In<g ref="char:EOLhyphen"/>deed for obeying the Commands of the Committee for the <hi>Militia</hi> that were his <hi>Generall,</hi> muſt be put of, and <hi>Player,</hi> that <hi>Player</hi> that play'd the Cowards part ſo much at Cherriton, in his room. Lieutenant Col. <hi>Thomſon</hi> a valiant and faithful Comman<g ref="char:EOLhyphen"/>der layd by, and unworthy baſe ſpirited <hi>Manby</hi> put in his Room, he that upon the routing of a forlorn Hope at Cher<g ref="char:EOLhyphen"/>riton cryed and wrung his hands, what ſhall he doe, what ſhall he doe, the day is loſt, like a great <hi>Booby:</hi> Let them make the <hi>Puppy</hi> his Sonne Major, in the roome of valiant and reſo<g ref="char:EOLhyphen"/>lute Major <hi>Milton,</hi> whom they have put out, and then I dare promiſe this Regiment ſhall never commit City High Treaſon neither. In the Red Regiment Colonell <hi>Hooker,</hi> a valiant prudent godly and faithfull Captain, is laid by; a man that ſtood up with the firſt and acted with the beſt, for the ſafety of King, Parliament, Kingdome, and City, but he indeavoured not to be a Slave to Slaves, had a ſword in his hand, and being aſ<g ref="char:EOLhyphen"/>ſaulted by a company of Thieves and Raſcalls, was loath to yeeld, but indeavoured to defend himſelfe; this I ſay being Ci<g ref="char:EOLhyphen"/>ty high Treaſon, he muſt be laid by, and in his Roome unwor<g ref="char:EOLhyphen"/>thy peeking <hi>Hays</hi> is placed: Lieutenant Colonell <hi>Brett</hi> is turned out too, and truly I wonder at it, in my Conſcience he is no Presbiterian, but I ſuppoſe he is too much a man, too much a Souldier to act in theſe baſe unworthy wayes now on foot; they ſay <hi>Cuſhen</hi> hath his Room, baſe ſpirited <hi>Cuſhen</hi> to be ſate upon by <hi>Hays,</hi> whom he hath Commanded, I wiſh thou mayſt be ſate upon, by all the foot-boyes, Tapſters, Porters, Journey-men Tailors in the Town. This Act ſpeaks the Tailor and the ſonne of a Tailor to the tenth generation. For the reſt of that Regiment I hear not of.</p>
+            <p>
+               <pb n="10" facs="tcp:115358:7"/>
+In the blew Regiment, Shake-rag <hi>Vnderwood</hi> may ſerve their turn well enough; he baſely hid his head when he ſhould have been at the head of his Regiment: but <hi>Cox</hi> &amp; <hi>Gillibrand</hi> are out; the firſt guilty of <hi>City-high treaſon,</hi> &amp; the ſecond of too much honeſty to ſerve any baſe deſigne, though never ſo fairly guil<g ref="char:EOLhyphen"/>ned over, both honeſt, tried, valiant ſouldiers, and ſo not fit to be ranked with <hi>fools, knaves,</hi> and <hi>cowards;</hi> and in their ſtead <hi>Rogers</hi> and <hi>Coe</hi> are brought, the one a <hi>Fool,</hi> the other a <hi>Broker.</hi> But in name of the <hi>Tower-ghoſt,</hi> what have the Commanders of the Yellow Regiment done? they are all turn'd out, all guilty of <hi>City-high-Treaſon:</hi> had ye not one <hi>Fool</hi> nor <hi>Knave</hi> among ye, nor <hi>Cuckold</hi> neither? that's a <hi>Miracle.</hi> Let's view you a little more narrowly, for the rareneſſe of the buſineſſe. Firſt, Colonell <hi>Bromfield,</hi> a Gentleman of unqueſtionable faithfulneſſe and integrity, upon whom <hi>God</hi> hath confer'd ex<g ref="char:EOLhyphen"/>traordinary parts and abilities, and a heart to improve all to the ſervice of his Countrey; a fit man to tranſact any Military af<g ref="char:EOLhyphen"/>faire at that Councell of Warre where great <hi>Guſtavus Adolphus</hi> ſate Preſident; a Gentleman that at the famous Battell of <hi>Newbury</hi> proved himſelfe a valiant Souldier, and a diſcreet Commander; in the Committee for the <hi>Militia,</hi> and Court of <hi>Common-Councell</hi> diſcreetly, faithfully and ſtoutly muted thoſe Apoſtates <hi>Fowks, Eſtwick, Player,</hi> and countermined their de<g ref="char:EOLhyphen"/>ſignes: This laſt I believe was his great crime: but he is outed, and that ſhadow of a Souldier, <hi>Harriſon</hi> in his place; a ſilly weak old man (God knowes) fitter to eat Pie and Cuſtard, then lead a Regiment; a man of no eſtate, and meerly for the profits, which he muſt raiſe indirectly and diſhoneſtly too, takes it; a fellow that carried himſelfe like a Fool and a Cow<g ref="char:EOLhyphen"/>ard at Cherriton, onely the Colonell <hi>Harriſon</hi> (being forced to marrie his daughter, having <hi>That ſame</hi> before-hand) is his ſonne in Law, that's deſert enough.</p>
+            <p>Lievtenant-Colonell <hi>Leigh</hi> is the next; a man of Eſtate and Quality, an honeſt, godly, valiant man, a man that did as good ſervice at <hi>Cherriton</hi> as any man in the Brigade, a man that from principles of Honeſty and Piety leads the life of a <hi>Chriſti<g ref="char:EOLhyphen"/>an</hi> in ſincerity: He is thrown out, and that proud, inſolent, Schiſmaticall, beggerly <hi>Fenton</hi> in his place: this is he that would needs have a Committee of Aldermen and Common<g ref="char:EOLhyphen"/>ers
+<pb n="11" facs="tcp:115358:7"/>to examine whether he were a <hi>Cuckold</hi> or not, when him<g ref="char:EOLhyphen"/>ſelfe, his wife, and the Schoolmaſter of <hi>Dullidge</hi> had concluded on the Affirmative before. His father keeps a poor Countrey Ale-houſe, he bound him to a <hi>Tagger of Points;</hi> he married his wife from the <hi>Bell</hi> at <hi>Jſlington;</hi> yet this proud Foole cries <hi>Want you any Buttons?</hi> in Scarlet and Pluſh: This is he that was ſhot in the Arſe at <hi>Caverſham-Bridge,</hi> he had ſo much Armour on's back he could not run away faſt enough, that got that lit<g ref="char:EOLhyphen"/>tle he hath by being a Commitree-man under my Lord of <hi>Eſ<g ref="char:EOLhyphen"/>ſex,</hi> that carried out a gallant Company of London Apprenti<g ref="char:EOLhyphen"/>ces into the Service, and uſed them like <hi>Doggs,</hi> ('tis their own expreſſion,) that muſt be pleas'd in all the reſt of the Comman<g ref="char:EOLhyphen"/>ders, and have power to preſent them, which our wiſe Com<g ref="char:EOLhyphen"/>mittee granted; that hath brought in a Company of Fooles, that he may be <hi>Dominus fac towm:</hi> But enough of this proud <hi>Thing.</hi>
+            </p>
+            <p>The next is Major <hi>Neele;</hi> he hath two faults, he's an honeſt man, and no Sectary; in his room is one <hi>Doyle Tichburnes</hi> Creature and once Lievtenant; neither Man nor Souldier: This is he that was at Cherriton, and may ſay as the great <hi>Iuli<g ref="char:EOLhyphen"/>us Caeſar</hi> did, <hi>Veni, Vidi;</hi> an excellent fellow to bring up a File of Dragooners, fit to hold their horſes while they fight, or to be an Enſigne, he loves to ſhelter himſelfe amongſt the Pikes ſo well: a man that will never be guilty of breaking the ſixth Commandement, nor raiſing a New Warre.</p>
+            <p>The fourth was Captaine <hi>Elaine,</hi> a Gentleman as fit for Command as any in the City, a very knowing experienc'd Soul<g ref="char:EOLhyphen"/>dier, one who hath made as great proficiencie in the Art Milita<g ref="char:EOLhyphen"/>rie as any, and been very inſtrumentall in making many Souldi<g ref="char:EOLhyphen"/>ers; a man of very good parts, honeſt and conſcientious, he is out, and in his place that Kickſhaw <hi>Blackwell,</hi> a fellow infinite<g ref="char:EOLhyphen"/>ly below the place as man, never capable of it as a Souldier, of his Colonells complexion, taketh it meerly for profit. This is he that cried he was undone when turned out laſt; that put Fines for Delinquency and his Officers Pay in his own pocker, (get it out when they can) a cowardly Fop, a ſilly Gooſe, that if he had a will, hath not parts to acquire any thing in the Art Militarie.</p>
+            <p>The next was Captain <hi>Widmerpoole,</hi> a Gentleman of good
+<pb n="12" facs="tcp:115358:8"/>Account and Quality, a very ſtout and valiant man, an able and knowing Souldier; one that hath been very active for the Par<g ref="char:EOLhyphen"/>liament from the beginning of theſe troubles, was at Cherri<g ref="char:EOLhyphen"/>ton fight, did as good ſervice as any in his Command there. In brief, hath given ample teſtimony of his faithfulneſſe, reſolution and courage in his place. One <hi>Stone</hi> is put in his place; truly the man may be honeſt, but as fit to command a Company as to build PAULS, and ſo not very wiſe. Surely theſe Fellowes think the Office of a Captain is nothing but onely to walk be<g ref="char:EOLhyphen"/>fore a company to Weſtminſter. The Schollars are like to be well taught when the Maſter cannot read.</p>
+            <p>The next was Captain <hi>Potter,</hi> an honeſt fellow and a Souldi<g ref="char:EOLhyphen"/>er, ſo much I may ſay, yet be modeſt; I know him faithfull to the Parliaments Cauſe; he took up a Commiſſion juſt when the Regiment went out to fight for it. I hope his heart is up<g ref="char:EOLhyphen"/>right to God too. I am confident he deſires it ſhould be ſo. He was at <hi>Cherriton,</hi> and did ſervice in the hotteſt worke there; <hi>Gods</hi> good providence aſſiſting he came not away, nor ſhrunk from any imployments he was commanded upon: nay, he went upon ſome and of ſome danger too, when waved by o<g ref="char:EOLhyphen"/>thers, but he cannot be yoaked with <hi>Fenton: Exit.</hi> In his place is one <hi>White,</hi> a fellow for whom I cannot meet with a fit <hi>Cha<g ref="char:EOLhyphen"/>racter,</hi> the moſt unworthy ſniveling foole that I have heard of to be a Captaine. This is he that commenced an Action of Treſpaſſe againſt his <hi>man,</hi> and lay him in the <hi>Compter</hi> for cut<g ref="char:EOLhyphen"/>ting his thin cheeſe, and like a Knave would have had his maid ſworne ſtrange matters againſt him; that turned off his maid for being no better houſe-wife in her Kitchenſtuffe: that will be a Souldier when <hi>Habedeboody</hi> his Lievtenant is one; and truly, let ſimple <hi>Robin</hi> have his Colours, and it would trouble a man to judge who were the better Souldier.</p>
+            <p>The next is Captain <hi>Hynde,</hi> a man that hath done the Par<g ref="char:EOLhyphen"/>liament very eminent ſervice at the beginning of theſe troubles, as a <hi>Commiſſary</hi> of Horſe, and <hi>Gratis</hi> too, a very diſ<g ref="char:EOLhyphen"/>creet, prudent and ſtout man, and a good Souldier, that tru<g ref="char:EOLhyphen"/>ly feares God, and walkes cloſe with him, but will not bee coupled with Oxes and Aſſes, ſo laid by. In his roome is one <hi>Sherburne,</hi> a young fellow and no ſouldier. I know little of him, but it's like he is one that will be ruled by Lievtenant-Co<g ref="char:EOLhyphen"/>lonell <hi>Tap.</hi>
+            </p>
+            <p>
+               <pb n="13" facs="tcp:115358:8"/>
+Thus behold your walls and Bulworkes, ye men of <hi>Lacede<g ref="char:EOLhyphen"/>monia,</hi> in this we may ſee their drift and deſigne plaine; but go on you <hi>Saviours,</hi> that while ſome of you are (ſeemingly at leaſt) lifting up your hands to heaven, others are confulting with Hell it ſelfe, digging and deſigning the overthrow both of Church and State: if they can make the <hi>City</hi> pay Taxes wil<g ref="char:EOLhyphen"/>lingly, the worke is done, we are ſlaves to eternity, the Coun<g ref="char:EOLhyphen"/>trey muſt find meat and drinke, and the <hi>City</hi> ſpending-money and cloathes, for theſe <hi>Lord-Danes;</hi> for quartering among us is dangerous, then let Fooles worke, we will live by play, but remember <hi>Nebuchadnezars</hi> hand-writing.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
